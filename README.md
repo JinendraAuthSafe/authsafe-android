@@ -36,7 +36,7 @@ allprojects {
 
 ```gradle
 dependencies {
-	        implementation 'com.github.Ashishchidhava:Library-Task:Tag'
+	        implementation 'com.authsafe.authsafe:authsafe-android:1.0.2'
 	}
   ```
 **Step 3:** Define secret key in your string file
